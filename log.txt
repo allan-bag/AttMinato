@@ -1,11 +1,1 @@
 
-{"version_code":999999999,"content":"
-<p> تحديث|Update 0.21.1L</p>
-
-
-<li> Sharingan v4 ofc disponível</li>
- 
-
-
-","url":"https://youtu.be/12SEDvGisgQ"
-}
