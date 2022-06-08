@@ -1,6 +1,6 @@
 
 {
- "version":"4.0",
+ "version":"3.0",
  "title":"Atualizar: Sharingan",
  "description":"
  🔸[ATT] Versão 2.22.10.73
