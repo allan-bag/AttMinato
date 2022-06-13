@@ -1,9 +1,10 @@
 
 {
- "version":"3.0",
+ "version":"4.0",
  "title":"Atualizar: Sharingan",
  "description":"
- 🔸Aizen viado
+ 🔸Tisu lindo
+  ⚡ minato sapeka
  --------------------------------
 🛠️[Bug] Encontrou algum bug? Reporte.",
  "download":"https://youtube.com/c/MinatoModz"
